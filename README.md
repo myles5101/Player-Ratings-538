@@ -8,5 +8,5 @@ I retrieved my Data from fivethirtyeight.com which keeps stats on professional s
 
 
 
-On the x axis is there raptor rating for offense and their raptor rating for defense. There is a strong negative relationship between the two scores. As the offensive raptor score increases the defensive raptor score decreases and vice versa. This is because players only have so much energy, it is hard to have both a high defensive raptor score and offensive raptor score in one player.
+The X axis represents the raptor rating for offense while the Y axis represents their raptor rating for defense. There is a strong negative relationship between the two scores. As the offensive raptor score increases the defensive raptor score decreases and vice versa. This is because players only have so much energy, it is hard to have both a high defensive raptor score and offensive raptor score in one player.
 
