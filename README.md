@@ -1,4 +1,4 @@
-# NBA's Top Players according to total Raptor Ratin and the breakdown of their rating using FiveThirtyEight Offensive/Defensive Raptor Ratings 
+# Offensive vs. Defensive Raptor Ratings for the NBA players with the highest Total Raptor Rating
 
 
 I retrieved my Data from fivethirtyeight.com which keeps stats on professional sports. They have created a "Raptor rating" in order to assign players performance a single value. My visualization depicts a scatterplot with players with a raptor score above 5. 
