@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+#NBA's Top Players according to total Raptor Ratin and the breakdown of their rating using FiveThirtyEight Offensive/Defensive Raptor Ratings 
 
-You can use the [editor on GitHub](https://github.com/myles5101/Player-Ratings-538/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I retrieved my Data from fivethirtyeight.com which keeps stats on professional sports. They have created a "Raptor rating" in order to assign players performance a single value. My visualization depicts a scatterplot with players with a raptor score above 5. 
 
-### Markdown
+TODO: Put visualization here
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+On the x axis is there raptor rating for offense and their raptor rating for defense. There is a strong negative relationship between the two scores. As the offensive raptor score increases the defensive raptor score decreases and vice versa. This is because players only have so much energy, it is hard to have both a high defensive raptor score and offensive raptor score in one player.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/myles5101/Player-Ratings-538/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
